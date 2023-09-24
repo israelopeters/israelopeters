@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @israelopeters.
-- 🌱 I’m currently learning natural language processing.
+- 🌱 I’m currently learning web development.
 - 📫 Reach me via israelopeters@gmail.com
 
 <!---
