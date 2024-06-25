@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @israelopeters.
-- 🌱 I’m a budding Java developer.
+- 🌱 I’m a Java developer.
 - 📫 Reach me via israelopeters@gmail.com
 
 <!---
