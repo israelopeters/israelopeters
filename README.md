@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @israelopeters.
-- 🌱 I’m a Junior Java + Kotlin Software Engineer.
+- 🌱 I’m a Junior Java + Kotlin Software Engineer (full-stack).
 - 📫 Reach me via israelopeters@gmail.com
 
 <!---
