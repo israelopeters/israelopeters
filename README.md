@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @israelopeters.
-- 🌱 I’m a career switcher into software engineering. I completed the Northcoders Java Development Bootcamp in July 2024, and I am extending my knowledge by learning Kotlin, Jetpack Compose, and Kotlin/Compose Multiplatform for cross-platform development while deepening my Java skills (Spring framework) for backend apps.
+- 🌱 I’m a career switcher into software engineering. I completed the Northcoders Java Development Bootcamp in July 2024, and I am extending my skills by 1) learning Kotlin, Jetpack Compose, and Kotlin/Compose Multiplatform for cross-platform development; 2) deepening my Java skills (Spring framework) for backend competencies; and 3) learning Dash for swiftly building data apps in Python.
 - 📫 Reach me via israelopeters@gmail.com
 
 <!---
