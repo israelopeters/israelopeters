@@ -1,15 +1,25 @@
 # Israel Peters
 
-Software engineer building web and mobile products people find easy to use: Next.js, React and TypeScript on the web, and Kotlin and Jetpack Compose on Android.
+Android engineer building in Kotlin and Jetpack Compose, with production web experience in Next.js and TypeScript. I care about seamless, accessible user experiences and the business outcomes behind them.
 
-**Portfolio and case studies:** [israelopeters.com](https://israelopeters.com)
+## Android: BigChange field service app
+Offline-first app used by engineers at 2,400+ businesses (private code).
+- Delivered an AI text-improvement feature for job comments, consuming a shared Kotlin Multiplatform module
+- Delivered geofence-assisted job time suggestions through a feature-flagged rollout
+- Fixed production crashes affecting thousands of users, with regression tests
 
-- [RTI Lounge](https://israelopeters.com/work/rti-lounge/): reading-community platform with 420+ registered members, built solo from PRD to production (Next.js, TypeScript, Supabase)
-- [Gemspread Publishing](https://israelopeters.com/work/gemspread/): website for an independent African publisher and its two imprints (Next.js, Strapi)
-- [Ma Kẹkẹ](https://israelopeters.com/work/ma-keke/): literary magazine held in nine academic libraries, with experimental AI audio narration (ElevenLabs API)
+**Stack:** Kotlin · Java · Coroutines · Flow · Jetpack Compose · MVVM · Clean Architecture · Hilt · Retrofit · JUnit · Mockito
 
-On Android, I work on BigChange's field service app, used by 2,400+ businesses (Kotlin, Jetpack Compose, KMP).
+## Android projects (pinned below)
+- **bookieboard**: a reading-knowledge quiz app (Kotlin + Spring Boot API)
+- **rti-reviews-android**: write and share book reviews in a reading community (prototype)
+- **readingnow**: see what nearby readers are reading, with AI recommendations (prototype; Kotlin + Spring Boot API)
 
-Most of my production code lives in private repositories for live products.
+## Web products in production
+- **RTI Lounge**: reading-community platform with 420+ members, built solo from requirements to production (Next.js, TypeScript, Supabase)
+- **Gemspread Publishing** and **Ma Kẹkẹ**: publisher and literary magazine sites (Next.js, Strapi)
 
-📫 israelopeters@gmail.com · [LinkedIn](https://www.linkedin.com/in/israelopeters)
+All web case studies here: [israelopeters.com](https://israelopeters.com)
+
+## How I work
+AI-first in Claude Code, with Figma, Azure DevOps and Firebase connected through MCP servers.
